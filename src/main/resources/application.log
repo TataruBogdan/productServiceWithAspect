@@ -1,0 +1,7 @@
+
+log: - [09-10-2023 15:12:55] ATTEMPT TO LOGIN | EMAIL: m@email.com | PASSWORD: password
+log: - [09-10-2023 15:22:22] ATTEMPT TO LOGIN | EMAIL: me@email.com | PASSWORD: password
+log: - [09-10-2023 15:22:41] SUCCESSFULLY LOGIN : me@email.com | PASSWORD: password
+log: - [09-10-2023 15:42:08] ATTEMPT TO LOGIN | EMAIL: sd | PASSWORD: sdf
+log: - [09-10-2023 15:42:08] Exception org.springframework.security.authentication.BadCredentialsException: Bad credentials
+log: - [09-10-2023 15:42:08] SUCCESSFULLY LOGIN : sd | PASSWORD: sdf
